@@ -6,11 +6,11 @@ import { Heart, MessageCircle, Share2, MoreHorizontal, Send } from "lucide-react
 const posts = [
   {
     id: 1,
-    author: "Sarah M.",
+    author: "Maya J.",
     avatar: "🧑‍🦰",
-    pet: "Max (Golden Retriever)",
+    pet: "Milo (Aussiedoodle)",
     time: "2 hours ago",
-    content: "Does anyone have recommendations for a good dog trainer in the downtown area? Max is pulling on the leash a lot lately and I'd love some help! 🐕",
+    content: "I just got a new puppy, and I don't know where to get any nutritional food for him. Where should I go? 🐕",
     likes: 12,
     comments: 8,
     category: "Question",
