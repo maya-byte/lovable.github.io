@@ -9,7 +9,7 @@ const communities = [
     location: "Riverside Park Area",
     members: 342,
     emoji: "🐕",
-    description: "Daily walks, training tips, and weekend adventures",
+    description: "Daily walks, training tips, and fun times!",
     color: "bg-terracotta-light",
   },
   {
